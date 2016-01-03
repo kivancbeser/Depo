@@ -1,0 +1,20 @@
+bi yerde hata olduğu için denemeler de çok garip çıktı.
+
+first: lr:0.3 epoch:400 hidden layer:9
+
+
+lr:0.1 epoch:100 -> average rmse:39.33
+lr:0.2 epoch:100 -> average rmse:24.76
+lr:0.3 epoch:100 -> average rmse:30.13
+
+lr:0.3 epoch:200 -> average rmse:8.14
+lr:0.3 epoch:300 -> average rmse:9.26
+lr:0.3 epoch:400 -> average rmse:5.77
+lr:0.3 epoch:500 -> average rmse:6.76
+
+
+
+
+
+
+
