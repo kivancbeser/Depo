@@ -1,0 +1,15 @@
+Pazartesi;Izmir;Istanbul;10.45;155.00;12;
+Pazartesi;Izmir;Istanbul;12.45;1903.0012;
+Pazartesi;Izmir;Ankara;16.00;182.00;12;
+Sali;Izmir;Istanbul;10.45;12;239.00;12;
+Sali;Izmir;Ankara;15.00;149.99;12;
+Carsamba;Izmir;Antalya;8.45;65.00;12;
+Carsamba;Izmir;Istanbul;16.00;39.99;12;
+Persembe;Izmir;Istanbul;10.45;59.99;12;
+Persembe;Izmir;Antalya;16.00;65.55;12;
+Cuma;Izmir;Istanbul;10.45;99.99;12;
+Cuma;Izmir;Ankara;18.45;78.99;12;
+Cumartesi;Izmir;Istanbul;12.00;155.00;12;
+Cumartesi;Izmir;Antalya;15.00;129.98;12;
+Pazar;Izmir;Istanbul;09.00;35.00;12;
+Pazar;Izmir;Ankara;19.00;87.00;12;
